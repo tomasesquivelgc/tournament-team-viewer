@@ -2,7 +2,7 @@ const teams = [
   {
     id: 1,
     name: 'Jonia',
-    logo: "https://static.wikia.nocookie.net/leagueoflegends/images/a/ae/Ionia_Crest.png/revision/latest/scale-to-width/360?cb=20161117020756",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAc_KSdOkBPekR1TyQheGMJE2BMTvjZ-nfA&s",
     players: {
       top: {
         playerName: "GauchitoMc#LAS",
@@ -39,7 +39,7 @@ const teams = [
   {
     id: 2,
     name: 'Demacia',
-    logo: "https://static.wikia.nocookie.net/leagueoflegends/images/e/e3/Demacia_Crest_icon.png/revision/latest/scale-to-width/360?cb=20190720005456",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtz9n-8OkOWvLecmZxeb8y-bhBGVFiC7jcQ&s",
     players: {
       top: {
         playerName: "Un Pan#LAS",
@@ -76,7 +76,7 @@ const teams = [
   {
     id: 3,
     name: 'Piltover/Zaun',
-    logo: "https://static.wikia.nocookie.net/leagueoflegends/images/3/36/Piltover_and_Zaun_Crest.png/revision/latest?cb=20200429072942",
+    logo: "https://i.pinimg.com/originals/3c/15/00/3c1500dfe8390d57c4d032b73657a9ca.jpg",
     players: {
       top: {
         playerName: "ElMoli047#LAS",
@@ -150,7 +150,7 @@ const teams = [
   {
     id: 5,
     name: 'Aguasturbias',
-    logo: "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Bilgewater_Crest.png/revision/latest/scale-to-width/360?cb=20161117042614",
+    logo: "https://dariuslacroix.wordpress.com/wp-content/uploads/2015/07/escudo-de-aguasturbias.jpg?w=848",
     players: {
       top: {
         playerName: "",
@@ -187,7 +187,7 @@ const teams = [
   {
     id: 6,
     name: 'Noxus',
-    logo: "https://static.wikia.nocookie.net/leagueoflegends/images/e/e9/Noxus_Crest.png/revision/latest/scale-to-width/360?cb=20161117055949",
+    logo: "https://i.pinimg.com/originals/1c/b4/9c/1cb49c74f96e71c0d9615d1b325c026a.jpg",
     players: {
       top: {
         playerName: "Santyrached #LAS",
