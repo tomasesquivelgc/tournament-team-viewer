@@ -1,4 +1,3 @@
-import './App.css'
 import BracketsDisplay from './components/Braket'
 function App() {
 
